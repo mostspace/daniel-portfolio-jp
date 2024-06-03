@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/daniel-portfolio-jp/static/css/main.9aefa2a8.css",
-    "main.js": "/daniel-portfolio-jp/static/js/main.34469c47.js",
+    "main.css": "/daniel-portfolio-jp/static/css/main.b5c0278c.css",
+    "main.js": "/daniel-portfolio-jp/static/js/main.b12322fb.js",
     "static/js/787.30c2acf0.chunk.js": "/daniel-portfolio-jp/static/js/787.30c2acf0.chunk.js",
     "static/media/project18.png": "/daniel-portfolio-jp/static/media/project18.fd34156b803dcf95958e.png",
     "static/media/project3.png": "/daniel-portfolio-jp/static/media/project3.dd252c0710c27835e535.png",
@@ -17,7 +17,7 @@
     "static/media/project8.png": "/daniel-portfolio-jp/static/media/project8.71d392c1b532deba212d.png",
     "static/media/project9.png": "/daniel-portfolio-jp/static/media/project9.be9d9108c46e4b4aeaaf.png",
     "static/media/project_a_6.png": "/daniel-portfolio-jp/static/media/project_a_6.12a9e2b405c07505b249.png",
-    "static/media/1892778.jpg": "/daniel-portfolio-jp/static/media/1892778.d7a2dac23d9e9b5a0080.jpg",
+    "static/media/_1892778.jpg": "/daniel-portfolio-jp/static/media/_1892778.d7a2dac23d9e9b5a0080.jpg",
     "static/media/project19.png": "/daniel-portfolio-jp/static/media/project19.a5d738ddfdab584817a5.png",
     "static/media/project_a_13.png": "/daniel-portfolio-jp/static/media/project_a_13.a5d738ddfdab584817a5.png",
     "static/media/project2.png": "/daniel-portfolio-jp/static/media/project2.631aa16d5c84bceeb3c7.png",
@@ -42,18 +42,19 @@
     "static/media/project11.png": "/daniel-portfolio-jp/static/media/project11.9e3de4c5edfbc0a1ee5e.png",
     "static/media/project_a_7.png": "/daniel-portfolio-jp/static/media/project_a_7.24185c5473579e29bcf3.png",
     "static/media/app2.png": "/daniel-portfolio-jp/static/media/app2.a874bec60e434c7a59c4.png",
+    "static/media/1892778.jpg": "/daniel-portfolio-jp/static/media/1892778.5b5390ea7199f8caeace.jpg",
     "static/media/project15.png": "/daniel-portfolio-jp/static/media/project15.ed088fa6bcea402d1e7c.png",
     "static/media/cv.pdf": "/daniel-portfolio-jp/static/media/cv.50638b7ceec4f20009be.pdf",
     "static/media/Gilroy-Medium.woff": "/daniel-portfolio-jp/static/media/Gilroy-Medium.5329bc502cdc219ad294.woff",
     "static/media/me.jpg": "/daniel-portfolio-jp/static/media/me.6530ea6df54c6e909496.jpg",
     "static/media/chatwork.png": "/daniel-portfolio-jp/static/media/chatwork.24d4348359c8235dd38a.png",
     "index.html": "/daniel-portfolio-jp/index.html",
-    "main.9aefa2a8.css.map": "/daniel-portfolio-jp/static/css/main.9aefa2a8.css.map",
-    "main.34469c47.js.map": "/daniel-portfolio-jp/static/js/main.34469c47.js.map",
+    "main.b5c0278c.css.map": "/daniel-portfolio-jp/static/css/main.b5c0278c.css.map",
+    "main.b12322fb.js.map": "/daniel-portfolio-jp/static/js/main.b12322fb.js.map",
     "787.30c2acf0.chunk.js.map": "/daniel-portfolio-jp/static/js/787.30c2acf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aefa2a8.css",
-    "static/js/main.34469c47.js"
+    "static/css/main.b5c0278c.css",
+    "static/js/main.b12322fb.js"
   ]
 }
